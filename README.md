@@ -8,6 +8,8 @@ I build LLM applications in Python: RAG pipelines, AI agents and the backends ar
 | Project | What it does | Built with |
 |---|---|---|
 | **[PDF Insight](https://github.com/webmasterfed/pdf-insight)** · [demo](https://webmasterfed.github.io/pdf-insight/) | Turns a PDF into a summary and validated JSON | React, TypeScript, Gemini, Zod, Postgres |
+| **[Document RAG Assistant](https://github.com/webmasterfed/document-rag-assistant)** | Upload PDFs and get grounded answers with precise citations; framework-free RAG | Python, ChromaDB, custom chunking |
+| **[Crypto Sentinel](https://github.com/webmasterfed/crypto-sentinel-python)** | Real-time ETH price monitoring as containerized microservices | Python, Docker, CI/CD, Prometheus, Grafana |
 | **AI Documentation Platform** · private | Records a browser workflow and writes the docs; the agent checks and fixes its own output | FastAPI, LangGraph, Supabase, Chrome extension |
 | **Tree Health & Fall Risk Detection** · team | Detects tree disease and fall hazards from images; I led the model optimization | PyTorch, YOLO, OpenCV |
 | **RAG pipeline** · Imedia, current | Retrieval and vector search, with benchmarked answer quality | Python, FastAPI, Langflow |
@@ -25,6 +27,8 @@ I build LLM applications in Python: RAG pipelines, AI agents and the backends ar
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 ### 📫 Contact
 
