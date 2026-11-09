@@ -1,58 +1,31 @@
-# Hi there, I'm Fiodar 👋
+### Hi, I'm Fiodar 👋
 
-**Applied AI Engineer | Python Developer | CS Student**
+AI Engineer Intern at **Imedia Group** · CS student (Generative AI) at **PJATK**, Warsaw.
+I build LLM applications in Python: RAG pipelines, AI agents and the backends around them.
 
-I am an Applied AI Engineer passionate about building meaningful, production-oriented AI systems, from document intelligence (RAG) to computer vision and scalable cloud backends. 
-<br>
+### 🛠 Projects
 
+| Project | What it does | Built with |
+|---|---|---|
+| **[PDF Insight](https://github.com/webmasterfed/pdf-insight)** · [demo](https://webmasterfed.github.io/pdf-insight/) | Turns a PDF into a summary and validated JSON | React, TypeScript, Gemini, Zod, Postgres |
+| **AI Documentation Platform** · private | Records a browser workflow and writes the docs; the agent checks and fixes its own output | FastAPI, LangGraph, Supabase, Chrome extension |
+| **Tree Health & Fall Risk Detection** · team | Detects tree disease and fall hazards from images; I led the model optimization | PyTorch, YOLO, OpenCV |
+| **RAG pipeline** · Imedia, current | Retrieval and vector search, with benchmarked answer quality | Python, FastAPI, Langflow |
 
-## 💻 Tech Stack & Tools
+### 🧰 Stack
 
-**🧠 AI & Machine Learning**
-<br>
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) 
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=flat&logo=openai&logoColor=white) 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-**⚙️ Backend & Frameworks**
-<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+### 📫 Contact
 
-**🗄️ Databases & Vector Storage**
-<br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-
-**☁️ Cloud & MLOps**
-<br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**📊 Observability & Version Control**
-<br>
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fiodarklimovich) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:klimovichf@gmail.com) 
-
-
-<!-- # 📊 GitHub Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=FedorKros&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-<!-- ![](https://nirzak-streak-stats.vercel.app/?user=FedorKros&theme=transparent&hide_border=true)<br/> --> 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FedorKros&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiodarklimovich/)
